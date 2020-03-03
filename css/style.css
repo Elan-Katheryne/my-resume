@@ -57,6 +57,7 @@ a:hover {
   width: 50%;
   margin: 100px auto 100px auto;
   text-align: left;
+  font-size: 1.3rem;
 }
 
 .contact-me {
@@ -75,14 +76,10 @@ hr{
   margin: 100px auto;
 }
 
-p.intro{
-  text-size: 1rem;
-  line-height: 2;
-}
-
 .intro {
   margin: auto;
-  width: 40%;
+  width: 45%;
+  font-size: 1.3rem;
 }
 
 .comp{
@@ -109,7 +106,7 @@ p.intro{
   border-radius: 8px;
   font-family: 'Montserrat', sans-serif;
   color: #ffffff;
-  font-size: 20px;
+  font-size: 17px;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
 
