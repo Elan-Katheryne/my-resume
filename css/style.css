@@ -75,11 +75,14 @@ hr{
   margin: 100px auto;
 }
 
+p.intro{
+  text-size: 1rem;
+  line-height: 2;
+}
+
 .intro {
   margin: auto;
   width: 40%;
-  text-size: 1rem;
-  line-height: 2;
 }
 
 .comp{
@@ -125,10 +128,6 @@ hr{
 
 .middle-container {
   margin: 100px 0;
-}
-
-.bottom-container {
-
 }
 
 .contact-message{
